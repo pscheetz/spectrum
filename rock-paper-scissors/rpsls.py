@@ -1,5 +1,6 @@
 import os
 import random
+from os import system, name
 
 score_tally = {"user": 0, "cpu":0, "tie":0} # Dict of the score
 possible_moves = ['rock', 'paper', 'scissors', 'lizard', 'spock']
@@ -12,10 +13,15 @@ win_logic = {"rock":{"scissors":"(as it always has) crushes", "lizard":"crushes"
              "spock":{"scissors":"smashes", "rock":"vaporizes"} } 
 
 def clear():
-	os.system("clear")
+    if name == 'nt':
+        print("Windows :(")
+     #os.system("cls") 
+    else:
+        print("Not Windows")
 
 games = 0 # doesn't really do anything other than it doesn't clear the screen/show score at the first go
 
+clear()
 print("Welcome to Rock Paper Scissors Lizard Spock.")
 print('Type "quit" to exit!')
 

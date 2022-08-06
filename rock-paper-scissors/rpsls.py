@@ -14,10 +14,9 @@ win_logic = {"rock":{"scissors":"(as it always has) crushes", "lizard":"crushes"
 
 def clear():
     if name == 'nt':
-        print("Windows :(")
-     #os.system("cls") 
+        os.system("cls") 
     else:
-        print("Not Windows")
+        os.system("clear")
 
 games = 0 # doesn't really do anything other than it doesn't clear the screen/show score at the first go
 

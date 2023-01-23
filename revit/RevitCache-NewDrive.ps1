@@ -53,7 +53,6 @@ ForEach ($v in $Versions) {
 
 } # end ForEach
 
-
 # Creates a folder symbolic link for the new folder
 Write-Host "Creating Symbolic Links"
 Set-Location "C:\Users\$user\AppData\Local\Autodesk\Revit"

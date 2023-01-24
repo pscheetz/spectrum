@@ -53,7 +53,7 @@ function modifyFiles() {
 
     # The below code applies to all users on the computer
     ForEach($User in $Users) {
-        WriteLog "- Beginning iteration for user: $user -"
+        WriteLogNoDate "`nBeginning iteration for user: $user"
         # Creates the "Revit X Local" folder in the Documents folder on the user profile
         New-Item "C:\Users\$User\Documents\Revit $version Local" -ItemType Directory -ErrorAction SilentlyContinue
         WriteLog "Created Documents\Revit $version Local folder"
@@ -65,15 +65,26 @@ function modifyFiles() {
         New-Item $appDataFolder -ItemType Directory -ErrorAction SilentlyContinue
         WriteLog "Created AppData Folder at $appDataFolder"
 
-        if (Test-Path "$appDataFolder\Revit $date INI.old") {
-            Remove-Item "$appDataFolder\Revit $date INI.old"
-            WriteLog "Revit INI backup file from today exists already in ProgramData; deleting..."
-
+        try {
+            WriteLog "Checking if the Revit INI is already located in $appDataFolder"
+            if (Test-Path "$appDataFolder\Revit $date INI.old" -ErrorAction Stop) {
+                Remove-Item "$appDataFolder\Revit $date INI.old" -ErrorAction Stop
+                WriteLog "Revit INI backup file from today exists already in AppData; deleting..."
+            }
+        }
+        catch [System.UnauthorizedAccessException] {
+            WriteLog "ERROR: No permission to modify $appDataFolder\Revit $date INI.old"
         }
 
-        if (Test-Path $appDataFile) {
-            Rename-Item -Path $appDataFile -NewName "Revit $date INI.old"
-            WriteLog "Saved pre-existing AppData Revit.ini as 'Revit $date INI.old'"
+        try {
+            WriteLog "Trying to save the pre-existing AppData INI file"
+            if (Test-Path $appDataFile -ErrorAction Stop) {
+                Rename-Item -Path $appDataFile -NewName "Revit $date INI.old" -ErrorAction Stop
+                WriteLog "Saved pre-existing AppData Revit.ini as 'Revit $date INI.old'"
+            }
+        }
+        catch [System.UnauthorizedAccessException] {
+            WriteLog "ERROR: No permission to modify $appDataFile"
         }
         
         #Copies the new INI file
@@ -86,8 +97,9 @@ function modifyFiles() {
             WriteLog "CRITICAL ERROR: No INI file found for " + $version + " " + $whichOffice + " " + $whichDepartment + "."
             return # Breaks out of the foreach loop (like break but break doesn't work here)
         }
-        
-        WriteLog "Script Completed!"
+        catch [System.UnauthorizedAccessException] {
+            WriteLog "ERROR: No permission to copy the INI file to AppData."
+        }
 
     } # Ends the ForEach Loop
 
@@ -100,7 +112,16 @@ function WriteLog{
     Add-Content $logFile -value $LogMessage
 } # end function
 
-# Logs the beginning of the program, to know when it is run each time
-WriteLog "`n`nStarting installation of Revit $version $office $department on $env:computername by $env:username"
+function WriteLogNoDate{
+    Param ([string]$LogString)
+    $LogMessage = "$LogString"
+    Add-Content $logFile -value $LogMessage
+} # end function
 
+
+# Logs the beginning of the program, to know when it is run each time
+WriteLogNoDate "`n`n`n--------------Starting installation of Revit $version $office $department on $env:computername by $env:username--------------"
+WriteLog "Starting..."
 modifyFiles
+WriteLogNoDate "Script Completed!"
+Write-Host "Script Completed!"

@@ -10,17 +10,28 @@ param(
 
     [Parameter(Mandatory,HelpMessage="Enter the department. Must be either 'Electrical' or 'Mechanical'")]
     [ValidateSet('Electrical','Mechanical')] # Must be in the department list here
-    [string]$department 
+    [string]$department,
 
+    [Parameter(HelpMessage="Enter if the script should install for a single user or everyone. Must be either 'all' or 'single'")]
+    [ValidateSet('all','single')] # Must be in the department list here
+    [string]$userInstallType = 'all'
 )
 
 # Declare Variables
 $logFile = "$PSScriptRoot\log.txt" # Saved to the same location as the .ps1 file
 $iniFile = "$PSScriptRoot\ini-files\$version\Revit$version-$office-$department.ini" # The file MUST be in .ps1 root folder\ini-files\<year>!!
 $date = Get-Date -Format "MM-dd-yyyy" # Used in the rename process if a revit ini exists already
-$Users = (Get-ChildItem C:\Users).Name # Pulls all users from C:\Users and puts them in an array called $Users
+$global:errors = 0
+# Users is either the logged-on user, or everybody on the machine (at the time of run)
+if ($userInstallType.Equals("single")) {
+    $Users = $env:username
+}
+else {
+    $Users = (Get-ChildItem C:\Users).Name # Pulls all users from C:\Users and puts them in an array called $Users
+}
 
 function modifyFiles() {
+    WriteLogNoDate "Installing for users: $Users"
     # Variables for the program data INI folder/file
     $programDataFolder = "C:\ProgramData\Autodesk\RVT $version\UserDataCache"
     $programDataFile = "C:\ProgramData\Autodesk\RVT $version\UserDataCache\Revit.ini"
@@ -47,7 +58,8 @@ function modifyFiles() {
 
     }
     catch [System.Management.Automation.ItemNotFoundException] { 
-        WriteLog "CRITICAL ERROR: No INI file found for " + $version + " " + $whichOffice + " " + $whichDepartment + "."
+        WriteLog "CRITICAL ERROR: No INI file found for $version $office $department!"
+        $global:errors = 1
         return # Breaks out of the foreach loop (like break but break doesn't work here)
     }
 
@@ -74,6 +86,7 @@ function modifyFiles() {
         }
         catch [System.UnauthorizedAccessException] {
             WriteLog "ERROR: No permission to modify $appDataFolder\Revit $date INI.old"
+            $global:errors = 1
         }
 
         try {
@@ -85,6 +98,7 @@ function modifyFiles() {
         }
         catch [System.UnauthorizedAccessException] {
             WriteLog "ERROR: No permission to modify $appDataFile"
+            $global:errors = 1
         }
         
         #Copies the new INI file
@@ -94,11 +108,13 @@ function modifyFiles() {
 
         }
         catch [System.Management.Automation.ItemNotFoundException] { 
-            WriteLog "CRITICAL ERROR: No INI file found for " + $version + " " + $whichOffice + " " + $whichDepartment + "."
+            WriteLog "CRITICAL ERROR: No INI file found for $version $office $department!"
+            $global:errors = 1
             return # Breaks out of the foreach loop (like break but break doesn't work here)
         }
         catch [System.UnauthorizedAccessException] {
             WriteLog "ERROR: No permission to copy the INI file to AppData."
+            $global:errors = 1
         }
 
     } # Ends the ForEach Loop
@@ -121,7 +137,13 @@ function WriteLogNoDate{
 
 # Logs the beginning of the program, to know when it is run each time
 WriteLogNoDate "`n`n`n--------------Starting installation of Revit $version $office $department on $env:computername by $env:username--------------"
-WriteLog "Starting..."
 modifyFiles
-WriteLogNoDate "Script Completed!"
-Write-Host "Script Completed!"
+if ($errors -eq 1) {
+    Write-Host "Completed, but with errors during installation. Check the log file for more information. Did you make sure you ran this as administrator?"
+    WriteLog "Completed, but with errors during installation. Look above for more information!"
+}
+else {
+    Write-Host "Installation completed successfully with no errors."
+    WriteLog "Installation completed successfully with no errors."
+
+}

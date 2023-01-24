@@ -1,0 +1,1583 @@
+
+
+
+--------------Starting installation of Revit 2222 SLC Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:05:38 Starting...
+2023/01/23 17:05:38 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2222\UserDataCache
+2023/01/23 17:05:38 CRITICAL ERROR: No INI file found for 
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2222 SLC Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:06:58 Starting...
+2023/01/23 17:06:58 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2222\UserDataCache
+
+Beginning iteration for user: Administrator
+2023/01/23 17:06:59 Created Documents\Revit 2222 Local folder
+2023/01/23 17:06:59 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2222
+2023/01/23 17:06:59 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2222
+2023/01/23 17:06:59 Trying to save the pre-existing AppData INI file
+2023/01/23 17:06:59 CRITICAL ERROR: No INI file found for 
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2222 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:07:13 Starting...
+2023/01/23 17:07:13 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2222\UserDataCache
+
+Beginning iteration for user: Administrator
+2023/01/23 17:07:13 Created Documents\Revit 2222 Local folder
+2023/01/23 17:07:13 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2222
+2023/01/23 17:07:13 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2222
+2023/01/23 17:07:13 Trying to save the pre-existing AppData INI file
+2023/01/23 17:07:13 CRITICAL ERROR: No INI file found for 
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2222 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:07:22 Starting...
+2023/01/23 17:07:22 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2222\UserDataCache
+2023/01/23 17:07:22 CRITICAL ERROR: No INI file found for 
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2222 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:08:30 Starting...
+2023/01/23 17:08:30 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2222\UserDataCache
+2023/01/23 17:08:30 CRITICAL ERROR: No INI file found for 2222 Tempe Mechanical!
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2222 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:08:54 Starting...
+2023/01/23 17:08:54 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2222\UserDataCache
+2023/01/23 17:08:54 CRITICAL ERROR: No INI file found for 2222 Tempe Mechanical!
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2222 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:10:54 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2222 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:11:18 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:11:37 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:11:42 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:11:50 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:13:24 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:13:29 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:15:36 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:16:25 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:20:42 Starting...
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+2023/01/23 17:20:52 Starting...
+Installing for users: prs
+2023/01/23 17:20:52 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:20:52 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:20:52 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:20:52 Copied new INI File to ProgramData
+
+Beginning iteration for user: prs
+2023/01/23 17:20:52 Created Documents\Revit 2023 Local folder
+2023/01/23 17:20:52 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:20:52 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:20:52 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:20:52 Trying to save the pre-existing AppData INI file
+2023/01/23 17:20:52 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:20:52 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:21:24 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:21:24 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:21:24 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:21:24 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:21:24 Created Documents\Revit 2023 Local folder
+2023/01/23 17:21:24 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:21:24 Trying to save the pre-existing AppData INI file
+2023/01/23 17:21:24 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:21:24 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:21:24 Created Documents\Revit 2023 Local folder
+2023/01/23 17:21:24 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:21:24 Trying to save the pre-existing AppData INI file
+2023/01/23 17:21:24 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:21:24 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:21:24 Created Documents\Revit 2023 Local folder
+2023/01/23 17:21:24 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:21:24 Trying to save the pre-existing AppData INI file
+2023/01/23 17:21:24 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:21:24 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:21:24 Created Documents\Revit 2023 Local folder
+2023/01/23 17:21:24 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:21:24 Trying to save the pre-existing AppData INI file
+2023/01/23 17:21:24 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:21:24 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:21:24 Created Documents\Revit 2023 Local folder
+2023/01/23 17:21:24 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:21:24 Trying to save the pre-existing AppData INI file
+2023/01/23 17:21:24 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:21:24 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:21:24 Created Documents\Revit 2023 Local folder
+2023/01/23 17:21:24 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:21:24 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:21:24 Trying to save the pre-existing AppData INI file
+2023/01/23 17:21:24 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:21:24 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:24:51 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:24:51 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:24:51 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:24:51 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:24:51 Created Documents\Revit 2023 Local folder
+2023/01/23 17:24:51 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:24:51 Trying to save the pre-existing AppData INI file
+2023/01/23 17:24:51 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:24:51 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:24:51 Created Documents\Revit 2023 Local folder
+2023/01/23 17:24:51 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:24:51 Trying to save the pre-existing AppData INI file
+2023/01/23 17:24:51 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:24:51 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:24:51 Created Documents\Revit 2023 Local folder
+2023/01/23 17:24:51 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:24:51 Trying to save the pre-existing AppData INI file
+2023/01/23 17:24:51 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:24:51 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:24:51 Created Documents\Revit 2023 Local folder
+2023/01/23 17:24:51 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:24:51 Trying to save the pre-existing AppData INI file
+2023/01/23 17:24:51 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:24:51 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:24:51 Created Documents\Revit 2023 Local folder
+2023/01/23 17:24:51 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:24:51 Trying to save the pre-existing AppData INI file
+2023/01/23 17:24:51 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:24:51 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:24:51 Created Documents\Revit 2023 Local folder
+2023/01/23 17:24:51 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:24:51 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:24:51 Trying to save the pre-existing AppData INI file
+2023/01/23 17:24:51 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:24:51 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:26:39 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:26:39 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:26:39 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:26:39 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:26:39 Created Documents\Revit 2023 Local folder
+2023/01/23 17:26:39 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:39 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:39 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:26:39 Trying to save the pre-existing AppData INI file
+2023/01/23 17:26:39 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:26:40 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:40 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:40 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:26:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:26:40 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:26:40 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:26:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:26:40 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:40 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:40 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:26:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:26:40 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:26:40 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:26:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:26:40 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:40 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:40 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:26:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:26:40 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:26:40 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:26:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:26:40 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:40 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:26:40 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:26:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:26:40 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:26:40 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:27:07 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:27:07 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:27:07 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:27:07 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:27:07 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:07 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:07 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:07 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:27:07 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:07 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:27:07 ERROR: No permission to copy the INI file to AppData.
+2023/01/23 17:27:07 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:07 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:27:07 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:27:07 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:07 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:07 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:07 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:27:07 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:07 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:27:07 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:27:07 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:07 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:07 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:07 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:27:07 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:07 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:27:07 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:27:07 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:07 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:07 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:07 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:27:07 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:07 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:27:07 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:08 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:27:08 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:27:44 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:27:44 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:27:44 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:27:44 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:27:44 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:44 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:27:44 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:44 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:27:44 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:27:44 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:44 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:27:44 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:44 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:27:44 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:27:44 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:44 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:27:44 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:44 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:27:44 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:27:44 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:44 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:27:44 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:44 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:27:44 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:27:44 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:44 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:27:44 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:44 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:27:44 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:27:44 Created Documents\Revit 2023 Local folder
+2023/01/23 17:27:44 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:27:44 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:27:44 Trying to save the pre-existing AppData INI file
+2023/01/23 17:27:44 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:27:44 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:28:00 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:28:00 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:28:00 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:28:00 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:28:00 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:00 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:28:00 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:00 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:28:00 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:28:00 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:00 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:28:00 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:00 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:28:00 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:28:00 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:00 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:28:00 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:00 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:28:00 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:28:00 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:00 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:28:00 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:00 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:28:00 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:28:00 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:00 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:28:00 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:00 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:28:00 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:28:00 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:00 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:00 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:28:00 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:00 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:28:00 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:28:30 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:28:30 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:28:30 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:28:30 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:28:30 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:30 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:28:30 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:30 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:28:30 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:28:30 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:30 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:28:30 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:30 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:28:30 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:28:30 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:30 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:28:30 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:30 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:28:30 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:28:30 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:30 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:28:30 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:30 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:28:30 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:28:30 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:30 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:28:30 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:30 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:28:30 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:28:30 Created Documents\Revit 2023 Local folder
+2023/01/23 17:28:30 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:28:30 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:28:30 Trying to save the pre-existing AppData INI file
+2023/01/23 17:28:30 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:28:30 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:30:20 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:30:20 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:30:20 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:20 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:30:20 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:20 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:20 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:20 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:20 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:30:20 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:20 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:20 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:20 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:20 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:30:20 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:20 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:20 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:20 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:20 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:30:20 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:20 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:20 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:20 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:20 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:30:20 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:20 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:20 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:20 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:20 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:30:20 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:20 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:20 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:20 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:20 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:20 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:30:35 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:30:35 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:30:35 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:35 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:30:35 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:35 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:35 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:35 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:35 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:30:35 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:35 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:35 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:35 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:35 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:30:35 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:35 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:35 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:35 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:35 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:30:35 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:35 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:35 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:35 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:35 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:30:35 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:35 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:35 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:35 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:35 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:30:35 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:35 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:35 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:35 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:35 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:35 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:30:49 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:30:49 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:30:49 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:49 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:30:49 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:49 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:49 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:49 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:49 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:30:49 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:49 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:49 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:49 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:49 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:30:49 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:49 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:49 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:49 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:49 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:30:49 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:49 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:49 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:49 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:49 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:30:49 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:49 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:49 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:49 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:49 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:30:49 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:49 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:49 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:49 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:49 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:49 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:30:59 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:30:59 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:30:59 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:59 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:30:59 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:59 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:59 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:59 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:59 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:30:59 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:59 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:59 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:59 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:59 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:30:59 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:59 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:59 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:59 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:59 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:30:59 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:59 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:59 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:59 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:59 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:30:59 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:59 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:30:59 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:59 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:30:59 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:30:59 Created Documents\Revit 2023 Local folder
+2023/01/23 17:30:59 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:30:59 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:30:59 Trying to save the pre-existing AppData INI file
+2023/01/23 17:30:59 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:30:59 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:32:12 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:32:12 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:32:12 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:12 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:32:12 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:12 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:12 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:12 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:12 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:12 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:12 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:32:13 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:13 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:13 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:13 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:13 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:32:13 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:13 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:32:13 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:13 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:13 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:32:13 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:13 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:32:13 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:13 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:13 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:32:13 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:13 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:13 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:13 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:32:13 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:13 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:13 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:32:13 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:13 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:13 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:32:40 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:32:40 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:32:40 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:40 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:32:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:40 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:40 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:40 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:40 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:40 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:32:41 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:41 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:41 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:41 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:41 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:41 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:41 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:41 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:41 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:41 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:41 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:41 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:41 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:32:41 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:41 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:41 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:41 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:32:41 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:41 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:41 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:32:57 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:32:57 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:32:57 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:57 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:32:57 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:57 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:57 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:57 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:57 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:32:57 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:57 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:57 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:57 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:57 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:32:57 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:57 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:32:57 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:57 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:57 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:32:57 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:57 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:32:57 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:57 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:57 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:32:57 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:57 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:32:57 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:57 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:32:57 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:32:57 Created Documents\Revit 2023 Local folder
+2023/01/23 17:32:57 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:32:57 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:32:57 Trying to save the pre-existing AppData INI file
+2023/01/23 17:32:57 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:32:57 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:36:25 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:36:25 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:36:25 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:36:25 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:36:25 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:25 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:25 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:25 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:36:25 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:25 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:36:25 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:36:25 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:25 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:25 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:25 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:36:25 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:25 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:36:25 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:36:25 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:25 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:25 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:25 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:36:25 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:25 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:36:25 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:36:25 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:25 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:25 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:25 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:36:25 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:25 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:36:25 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:36:25 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:25 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:26 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:26 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:36:26 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:26 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:36:26 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:36:26 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:26 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:26 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:26 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:36:26 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:26 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:36:26 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:36:45 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:36:45 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:36:45 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:36:45 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:36:45 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:45 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:36:45 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:45 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:36:45 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:36:45 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:45 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:36:45 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:45 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:36:45 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:36:45 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:45 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:36:45 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:45 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:36:45 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:36:45 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:45 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:36:45 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:45 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:36:45 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:36:45 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:45 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:36:45 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:45 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:36:45 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:36:45 Created Documents\Revit 2023 Local folder
+2023/01/23 17:36:45 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:36:45 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:36:45 Trying to save the pre-existing AppData INI file
+2023/01/23 17:36:45 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:36:45 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:37:46 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:37:46 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:37:46 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:37:46 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:37:46 Created Documents\Revit 2023 Local folder
+2023/01/23 17:37:46 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:37:46 Trying to save the pre-existing AppData INI file
+2023/01/23 17:37:46 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:37:46 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:37:46 Created Documents\Revit 2023 Local folder
+2023/01/23 17:37:46 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:37:46 Trying to save the pre-existing AppData INI file
+2023/01/23 17:37:46 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:37:46 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:37:46 Created Documents\Revit 2023 Local folder
+2023/01/23 17:37:46 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:37:46 Trying to save the pre-existing AppData INI file
+2023/01/23 17:37:46 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:37:46 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:37:46 Created Documents\Revit 2023 Local folder
+2023/01/23 17:37:46 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:37:46 Trying to save the pre-existing AppData INI file
+2023/01/23 17:37:46 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:37:46 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:37:46 Created Documents\Revit 2023 Local folder
+2023/01/23 17:37:46 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:37:46 Trying to save the pre-existing AppData INI file
+2023/01/23 17:37:46 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:37:46 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:37:46 Created Documents\Revit 2023 Local folder
+2023/01/23 17:37:46 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:37:46 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:37:46 Trying to save the pre-existing AppData INI file
+2023/01/23 17:37:46 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:37:46 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:39:43 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:39:43 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:39:43 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:39:43 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:39:43 Created Documents\Revit 2023 Local folder
+2023/01/23 17:39:43 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:39:43 Trying to save the pre-existing AppData INI file
+2023/01/23 17:39:43 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:39:43 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:39:43 Created Documents\Revit 2023 Local folder
+2023/01/23 17:39:43 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:39:43 Trying to save the pre-existing AppData INI file
+2023/01/23 17:39:43 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:39:43 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:39:43 Created Documents\Revit 2023 Local folder
+2023/01/23 17:39:43 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:39:43 Trying to save the pre-existing AppData INI file
+2023/01/23 17:39:43 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:39:43 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:39:43 Created Documents\Revit 2023 Local folder
+2023/01/23 17:39:43 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:39:43 Trying to save the pre-existing AppData INI file
+2023/01/23 17:39:43 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:39:43 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:39:43 Created Documents\Revit 2023 Local folder
+2023/01/23 17:39:43 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:39:43 Trying to save the pre-existing AppData INI file
+2023/01/23 17:39:43 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:39:43 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:39:43 Created Documents\Revit 2023 Local folder
+2023/01/23 17:39:43 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:39:43 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:39:43 Trying to save the pre-existing AppData INI file
+2023/01/23 17:39:43 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:39:43 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:40:47 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:40:47 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:40:47 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:40:47 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:40:47 Created Documents\Revit 2023 Local folder
+2023/01/23 17:40:47 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:47 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:47 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:40:47 Trying to save the pre-existing AppData INI file
+2023/01/23 17:40:47 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:40:47 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:40:47 Created Documents\Revit 2023 Local folder
+2023/01/23 17:40:47 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:47 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:47 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:40:47 Trying to save the pre-existing AppData INI file
+2023/01/23 17:40:47 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:40:47 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:40:47 Created Documents\Revit 2023 Local folder
+2023/01/23 17:40:47 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:47 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:47 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:40:47 Trying to save the pre-existing AppData INI file
+2023/01/23 17:40:47 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:40:47 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:40:47 Created Documents\Revit 2023 Local folder
+2023/01/23 17:40:48 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:48 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:48 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:40:48 Trying to save the pre-existing AppData INI file
+2023/01/23 17:40:48 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:40:48 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:40:48 Created Documents\Revit 2023 Local folder
+2023/01/23 17:40:48 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:48 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:48 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:40:48 Trying to save the pre-existing AppData INI file
+2023/01/23 17:40:48 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:40:48 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:40:48 Created Documents\Revit 2023 Local folder
+2023/01/23 17:40:48 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:48 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:40:48 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:40:48 Trying to save the pre-existing AppData INI file
+2023/01/23 17:40:48 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:40:48 Copied new INI File to AppData
+Script Completed!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:42:16 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:42:16 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:42:16 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:42:16 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:42:16 Created Documents\Revit 2023 Local folder
+2023/01/23 17:42:16 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:16 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:16 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:42:16 Trying to save the pre-existing AppData INI file
+2023/01/23 17:42:16 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:42:16 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:42:16 Created Documents\Revit 2023 Local folder
+2023/01/23 17:42:16 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:16 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:16 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:42:16 Trying to save the pre-existing AppData INI file
+2023/01/23 17:42:16 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:42:16 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:42:16 Created Documents\Revit 2023 Local folder
+2023/01/23 17:42:16 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:16 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:16 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:42:16 Trying to save the pre-existing AppData INI file
+2023/01/23 17:42:16 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:42:16 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:42:16 Created Documents\Revit 2023 Local folder
+2023/01/23 17:42:16 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:16 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:16 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:42:16 Trying to save the pre-existing AppData INI file
+2023/01/23 17:42:16 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:42:17 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:42:17 Created Documents\Revit 2023 Local folder
+2023/01/23 17:42:17 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:17 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:17 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:42:17 Trying to save the pre-existing AppData INI file
+2023/01/23 17:42:17 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:42:17 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:42:17 Created Documents\Revit 2023 Local folder
+2023/01/23 17:42:17 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:17 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:42:17 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:42:17 Trying to save the pre-existing AppData INI file
+2023/01/23 17:42:17 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:42:17 Copied new INI File to AppData
+2023/01/23 17:42:17 Completed, but with errors during installation. Look above for more information!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:43:31 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:43:31 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:43:31 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:31 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:43:31 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:31 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:43:31 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:31 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:43:31 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:43:31 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:31 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:43:31 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:31 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:43:31 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:43:31 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:31 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:31 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:31 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:31 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:43:31 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:31 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:31 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:31 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:31 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:43:31 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:31 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:43:31 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:31 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:43:31 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:43:31 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:31 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:31 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:31 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:31 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:31 Copied new INI File to AppData
+2023/01/23 17:43:31 Completed, but with errors during installation. Look above for more information!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Mechanical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:43:40 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:43:40 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:43:40 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:40 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:43:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:40 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:40 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:40 Copied new INI File to AppData
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:43:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:40 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:40 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:40 Copied new INI File to AppData
+
+Beginning iteration for user: prs
+2023/01/23 17:43:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:40 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:40 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:40 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:43:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:40 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:40 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:40 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:43:40 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:40 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:40 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:40 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:41 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:41 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:43:41 Created Documents\Revit 2023 Local folder
+2023/01/23 17:43:41 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:41 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:43:41 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:43:41 Trying to save the pre-existing AppData INI file
+2023/01/23 17:43:41 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:43:41 Copied new INI File to AppData
+2023/01/23 17:43:41 Installation completed successfully with no errors.
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: Administrator administrator.SPECENG prs Public Smn spectrum
+2023/01/23 17:44:05 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:44:05 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:44:05 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:44:05 Copied new INI File to ProgramData
+
+Beginning iteration for user: Administrator
+2023/01/23 17:44:05 Created Documents\Revit 2023 Local folder
+2023/01/23 17:44:05 Created AppData Folder at C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Checking if the Revit INI is already located in C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:44:05 Trying to save the pre-existing AppData INI file
+2023/01/23 17:44:05 ERROR: No permission to modify C:\Users\Administrator\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:44:05 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: administrator.SPECENG
+2023/01/23 17:44:05 Created Documents\Revit 2023 Local folder
+2023/01/23 17:44:05 Created AppData Folder at C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Checking if the Revit INI is already located in C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:44:05 Trying to save the pre-existing AppData INI file
+2023/01/23 17:44:05 ERROR: No permission to modify C:\Users\administrator.SPECENG\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:44:05 ERROR: No permission to copy the INI file to AppData.
+
+Beginning iteration for user: prs
+2023/01/23 17:44:05 Created Documents\Revit 2023 Local folder
+2023/01/23 17:44:05 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:44:05 Trying to save the pre-existing AppData INI file
+2023/01/23 17:44:05 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:44:05 Copied new INI File to AppData
+
+Beginning iteration for user: Public
+2023/01/23 17:44:05 Created Documents\Revit 2023 Local folder
+2023/01/23 17:44:05 Created AppData Folder at C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Checking if the Revit INI is already located in C:\Users\Public\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:44:05 Trying to save the pre-existing AppData INI file
+2023/01/23 17:44:05 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:44:05 Copied new INI File to AppData
+
+Beginning iteration for user: Smn
+2023/01/23 17:44:05 Created Documents\Revit 2023 Local folder
+2023/01/23 17:44:05 Created AppData Folder at C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Checking if the Revit INI is already located in C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit 01-23-2023 INI.old
+2023/01/23 17:44:05 Trying to save the pre-existing AppData INI file
+2023/01/23 17:44:05 ERROR: No permission to modify C:\Users\Smn\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023\Revit.ini
+2023/01/23 17:44:05 Copied new INI File to AppData
+
+Beginning iteration for user: spectrum
+2023/01/23 17:44:05 Created Documents\Revit 2023 Local folder
+2023/01/23 17:44:05 Created AppData Folder at C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Checking if the Revit INI is already located in C:\Users\spectrum\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:05 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:44:05 Trying to save the pre-existing AppData INI file
+2023/01/23 17:44:05 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:44:05 Copied new INI File to AppData
+2023/01/23 17:44:05 Completed, but with errors during installation. Look above for more information!
+
+
+
+--------------Starting installation of Revit 2023 Tempe Electrical on PRS-083191 by prs--------------
+Installing for users: prs
+2023/01/23 17:44:27 Created ProgramData Folder at C:\ProgramData\Autodesk\RVT 2023\UserDataCache
+2023/01/23 17:44:27 Revit INI backup file from today exists already in ProgramData; deleting...
+2023/01/23 17:44:27 Saved pre-existing ProgramData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:44:27 Copied new INI File to ProgramData
+
+Beginning iteration for user: prs
+2023/01/23 17:44:27 Created Documents\Revit 2023 Local folder
+2023/01/23 17:44:27 Created AppData Folder at C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:27 Checking if the Revit INI is already located in C:\Users\prs\AppData\Roaming\Autodesk\Revit\Autodesk Revit 2023
+2023/01/23 17:44:27 Revit INI backup file from today exists already in AppData; deleting...
+2023/01/23 17:44:27 Trying to save the pre-existing AppData INI file
+2023/01/23 17:44:27 Saved pre-existing AppData Revit.ini as 'Revit 01-23-2023 INI.old'
+2023/01/23 17:44:27 Copied new INI File to AppData
+2023/01/23 17:44:27 Installation completed successfully with no errors.

@@ -18,8 +18,8 @@ param(
 )
 
 # Declare Variables
-$logFile = "$PSScriptRoot\revit-configurator-log.txt" # Saved to the same location as the .ps1 file
-$iniFile = "$PSScriptRoot\ini-files\$version\Revit$version-$office-$department.ini" # The file MUST be in .ps1 root folder\ini-files\<year>!!
+$logFile = "C:\Temp\RevitConfigurator\revit-configurator-log.txt" # Saved to the same location as the .ps1 file
+$iniFile = "C:\Temp\RevitConfigurator\ini-files\$version\Revit$version-$office-$department.ini" # The file MUST be in .ps1 root folder\ini-files\<year>!!
 $date = Get-Date -Format "MM-dd-yyyy" # Used in the rename process if a revit ini exists already
 $global:errors = 0
 # Users is either the logged-on user, or everybody on the machine (at the time of run)
@@ -126,12 +126,14 @@ function WriteLog{
     $TimeLog = (Get-Date).toString("yyyy/MM/dd HH:mm:ss")
     $LogMessage = "$TimeLog $LogString"
     Add-Content $logFile -value $LogMessage
+    Write-Output $LogMessage
 } # end function
 
 function WriteLogNoDate{
     Param ([string]$LogString)
     $LogMessage = "$LogString"
     Add-Content $logFile -value $LogMessage
+    Write-Output $LogMessage
 } # end function
 
 
